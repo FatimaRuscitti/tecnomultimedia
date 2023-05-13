@@ -1,3 +1,6 @@
+//Fátima Ruscitti Gallo 94035/6
+//comisión 3
+//Presentación de arte electrónico-NFT's, arte hecho de una forma poco convencional 
 
 // preparo un espacio en memoria para mi fuente:
 PFont miFuente;
