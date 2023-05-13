@@ -6,7 +6,6 @@
 PFont miFuente;
 //declaracion con asignacion:
 String estado = "inicio";
-//
 int cuentaFotograma = 0;
 PImage img;
 PImage img1;
