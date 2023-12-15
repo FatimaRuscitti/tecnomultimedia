@@ -1,0 +1,16 @@
+/* styles.css */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+h1, h2, h4, h5 {
+    color: #8b4513;
+}
+
+p, .card-text {
+    color: #2f4f4f;
+}
+
+/* Otros estilos... */
